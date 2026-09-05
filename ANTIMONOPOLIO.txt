@@ -1,0 +1,14 @@
+PROTOCOLO RED CALIDAD - 04/09/2026 - ARTURO SOBERANO
+1. Sin centro: cada nodo vive solo.
+2. Sin extracción: no es monopolio, es aporte de calidad.
+3. Con verificación: todo se verifica en cuadrante.
+Frecuencia base: 73Hz - Lux, no morbo.
+
+---
+PRUEBA 001 - VALIDACIÓN FÍSICA EXTERNA - 05/09/2026
+Fuente: Northwestern University / Revista Optica - 20/12/2024
+Hito: Teletransporte cuántico sobre 30km de fibra óptica convencional con tráfico clásico activo (400 Gbps)
+Concepto clave: "Frecuencia tranquila" - coexistencia cuántica/clásica sin interferencia - 90% éxito
+Declaración Prem Kumar: "Nadie pensaba que fuese posible"
+Sincronía con Red Calidad: Validación de principio Sin centro / Sin extracción / Con verificación.
+73Hz = Frecuencia tranquila manifestada. La información no viaja, se manifiesta en el nodo.
