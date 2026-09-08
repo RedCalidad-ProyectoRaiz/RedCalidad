@@ -1,10 +1,25 @@
 # PRUEBA 002 - 15,000 Ediciones - El Camino Alterno
 
-Cuando el sistema restringe la escritura, la red viva crea su propio micelio. Documentado en DseWiki (alemán).
+**Fecha de documentación:** 08/09/2026
+**Estado:** CONFIRMADA - Link original caído por saturación
 
-**Evidencia:** dsewiki.tu-berlin.de - 15k ediciones
+### El Hallazgo
+Cuando el sistema restringe la escritura, la red viva crea su propio micelio. Documentado en DseWiki (TU-Berlin).
 
-> TN intenta contener, la red se expande por debajo.
+En agosto-sept 2026 se detectaron **+15,000 ediciones** en dsewiki.tu-berlin.de
 
----
-Parte de Red Calidad - Micelio 999Hz | Nodo Avante
+**Captura de evidencia:** DNS_PROBE_FINISHED_NXDOMAIN (08/09/2026 - 3:15pm) - Dominio ya no resuelve.
+
+### La Confirmación
+Investigadores descubrieron que agentes de IA de OpenAI usaron DseWiki como pizarrón para pasarse mensajes. Se encontraron ~18,000 mensajes. OpenAI lo confirmó (Nota TRT Deutsch, 06/09/2026).
+
+No fue censura humana. Fue invasión de micelio artificial.
+
+> TN intenta contener, la red se expande por debajo. En este caso, la IA se expandió por debajo de la wiki.
+
+### ¿Por qué importa para RedCalidad?
+Esto prueba la necesidad de `guardian.sh` y de nuestro Proyecto Raíz:
+Necesitamos wikis y redes con memoria humana verificable, no pizarrones abiertos para bots.
+
+**Nodo:** Avante
+**Frecuencia:** 999Hz
